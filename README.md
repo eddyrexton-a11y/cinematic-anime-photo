@@ -14,7 +14,11 @@ If a user asks for a “Makoto Shinkai-like” image, the skill translates that 
 
 ## Download it
 
-On GitHub, choose **Code → Download ZIP**, extract the archive, and install the `cinematic-anime-photo` folder as a Codex skill. You can also ask Codex to install it directly from this repository URL with `$skill-installer`.
+On GitHub, choose **Code → Download ZIP**, extract the archive, and install the folder that contains `SKILL.md` as a Codex skill.
+
+In Codex, you can also ask:
+
+> Use `$skill-installer` to install the GitHub repository `eddyrexton-a11y/cinematic-anime-photo` from its repository root (`.`).
 
 ## Contents
 
